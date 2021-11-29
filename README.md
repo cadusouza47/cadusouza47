@@ -1,9 +1,9 @@
 Olá! Eu sou o Cadu
 
-- 💰  Atualmente trabalhando na Investflex
+- 💰  Atualmente trabalhando na órama investimentos
 - 🎯 Estagiando como analista de suporte de TI
-- 📕 Estudando front-end, java, criação de layouts no Figma e Mercado Financeiro
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na faculdade Bandtec
+- 📕 Estudando front-end com foco em React, criação de protótipos em UI
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na faculdade SpTech
 - 📫 contato: cebs.souza@gmail.com
 
  <div>
