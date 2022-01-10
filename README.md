@@ -1,4 +1,4 @@
-Hi! I am Cadu
+Hi! I am Cadu 
 
 - 💰 Currently intern at Órama Investimentos
 - 🎯 working as commercial and customer support
@@ -12,7 +12,7 @@ Hi! I am Cadu
      - listen to music;
      - Read books about dystopias;
 
- <div>
+ <div align="center">
   <a href="https://github.com/cadusouza47">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadusouza47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadusouza47&layout=compact&langs_count=7&theme=radical"/>
