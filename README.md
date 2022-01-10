@@ -31,7 +31,6 @@ Hi! I am Cadu
   <a href = "mailto:cebs.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-batista-de-souza-a86b8a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-     <div align="center">
+     
 ## **“Toward the other reaches of the galaxy in cosmic space-time”**
-     </div>
+     
