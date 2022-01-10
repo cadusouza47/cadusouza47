@@ -32,4 +32,4 @@ Hi! I am Cadu
   <a href="https://www.linkedin.com/in/carlos-eduardo-batista-de-souza-a86b8a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
      
-## **“A ambição é o último recurso do fracassado.”**
+## **“Toward the other reaches of the galaxy in cosmic space-time”**
