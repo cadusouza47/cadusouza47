@@ -1,10 +1,10 @@
 Olá! Eu sou o Cadu
 
-- 💰  Atualmente trabalhando na órama investimentos
-- 🎯 Estagiando como analista de suporte de TI
-- 📕 Estudando front-end com foco em React, criação de protótipos em UI
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na faculdade SpTech
-- 📫 contato: cebs.souza@gmail.com
+- 💰 Currently intern at Órama Investimentos
+- 🎯 working as commercial and customer support
+- 📕 Studying front-end with a focus on React and UI prototyping
+- 📚 Studying Systems Analysis and Development at SpTech College
+- 📫 contact: cebs.souza@gmail.com
 
  <div>
   <a href="https://github.com/cadusouza47">
