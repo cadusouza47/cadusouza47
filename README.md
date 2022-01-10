@@ -5,6 +5,12 @@ Hi! I am Cadu
 - 📕 Studying front-end with a focus on React and UI prototyping
 - 📚 Studying Systems Analysis and Development at SpTech College
 - 📫 contact: cebs.souza@gmail.com
+- 👾 my hobbies are:
+     study about programming;
+     watch movies;
+     make drawings;
+     listen to music;
+     Read books about dystopias;
 
  <div>
   <a href="https://github.com/cadusouza47">
