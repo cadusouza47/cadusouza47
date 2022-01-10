@@ -1,4 +1,4 @@
-Olá! Eu sou o Cadu
+Hi! I am Cadu
 
 - 💰 Currently intern at Órama Investimentos
 - 🎯 working as commercial and customer support
