@@ -1,7 +1,5 @@
 Hi! I am Cadu 
 
-- 💰 Currently commercial assistant at Órama Investimentos
-- 🎯 working as commercial and customer support
 - 📕 Studying front-end with a focus on React and UI prototyping
 - 📚 Studying Systems Analysis and Development at SpTech College
 - 📫 contact: cebs.souza@gmail.com
