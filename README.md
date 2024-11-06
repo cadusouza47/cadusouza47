@@ -1,14 +1,14 @@
 Hi! I am Cadu 
 
-- 📕 Studying front-end with a focus on React and UI prototyping
-- 📚 Studying Systems Analysis and Development at SpTech College
+- 📕 Studying front-end with a focus on React, SAP ABAP and Java
+- 📚 Formed in Systems Analysis and Development at SpTech College
 - 📫 contact: cebs.souza@gmail.com
 - 👾 my hobbies are:
      - study about programming;
      - watch movies;
      - make drawings;
      - listen to music;
-     - Read books about dystopias;
+     - Play bass;
 
  <div align="center">
   <a href="https://github.com/cadusouza47">
