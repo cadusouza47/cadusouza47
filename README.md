@@ -1,6 +1,7 @@
 Hi! I am Cadu 
 
-- 📕 Studying front-end with a focus on React, SAP ABAP and Java
+- 📕 Studying front-end languages (Javascript, Typescript), 
+- 📕 Working with SAP ABAP development and studying SAP Fiori development,
 - 📚 Formed in Systems Analysis and Development at SpTech College
 - 📚 Doing a postgraduate degree in front-end engineering at FIAP College
 - 📫 contact: cebs.souza@gmail.com
