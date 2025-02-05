@@ -22,7 +22,7 @@ Hi! I am Cadu
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <!--   <img align="center" alt="Rafa-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
 <!--   <img align="center" alt="Rafa-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> -->
-  <img align="center" alt="sap" height="40" width="50" src="https://simpleicons.org/icons/sap.svg">
+  <img align="center" alt="sap" height="40" width="50" src="![image](https://github.com/user-attachments/assets/9349386b-7e94-461c-8ef3-4cda456a7ea8)">
           
 </div>
 <br>
