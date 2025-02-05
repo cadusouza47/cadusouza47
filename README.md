@@ -2,6 +2,7 @@ Hi! I am Cadu
 
 - 📕 Studying front-end with a focus on React, SAP ABAP and Java
 - 📚 Formed in Systems Analysis and Development at SpTech College
+- 📚 Doing a postgraduate degree in front-end engineering at FIAP College
 - 📫 contact: cebs.souza@gmail.com
 - 👾 my hobbies are:
      - study about programming;
